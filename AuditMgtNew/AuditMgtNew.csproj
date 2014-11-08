@@ -129,26 +129,15 @@
     <Content Include="ReportAuditorDP.aspx" />
     <Content Include="ReportAuditorJMIncomplete.aspx" />
     <Content Include="ReportAuditorTC.aspx" />
-    <Content Include="V1.1\AuditConsusDP.aspx" />
-    <Content Include="V1.1\AuditConsusJM.aspx" />
-    <Content Include="V1.1\AuditConsusTC.aspx" />
-    <Content Include="V1.1\AuditCorporate.aspx" />
     <Content Include="AuditDP.aspx" />
     <Content Include="AuditHistoryJM.aspx" />
-    <Content Include="V1.1\AuditLevelConsusDP.aspx" />
-    <Content Include="V1.1\AuditLevelConsusJM.aspx" />
-    <Content Include="V1.1\AuditLevelConsusTC.aspx" />
     <Content Include="AuditLevelDP.aspx" />
     <Content Include="AuditLevelJM.aspx" />
     <Content Include="AuditLevelTC.aspx" />
-    <Content Include="V1.1\AuditReviewConsus.aspx" />
-    <Content Include="V1.1\AuditReviewFirstTierJM.aspx" />
-    <Content Include="V1.1\AuditReviewSecondTierJM.aspx" />
     <Content Include="AuditSaved.aspx" />
     <Content Include="AuditSavedDP.aspx" />
     <Content Include="AuditSavedTC.aspx" />
     <Content Include="AuditTC.aspx" />
-    <Content Include="V1.1\createnewuser.aspx" />
     <Content Include="Admin\CurrentAuditsJM.aspx" />
     <Content Include="default.aspx" />
     <Content Include="Default3.aspx" />
@@ -157,23 +146,17 @@
     <Content Include="ErrorPages\Oops.aspx" />
     <Content Include="forgotpassword.aspx" />
     <Content Include="GridViewEdit.aspx" />
-    <Content Include="V1.1\GridViewEditConsusDP.aspx" />
-    <Content Include="V1.1\GridViewEditConsusJM.aspx" />
-    <Content Include="V1.1\GridViewEditConsusTC.aspx" />
     <Content Include="GridViewEditDP.aspx" />
     <Content Include="GridViewEditDPSub.aspx" />
     <Content Include="GridViewEditJMSub.aspx" />
     <Content Include="GridViewEditTC.aspx" />
     <Content Include="GridViewEditTCSub.aspx" />
     <Content Include="HomeDP.aspx" />
-    <Content Include="V1.1\HomeDPConsus.aspx" />
     <Content Include="HomeJM.aspx" />
-    <Content Include="V1.1\HomeJMConsus.aspx" />
     <Content Include="HomePageDP.aspx" />
     <Content Include="HomePageJM.aspx" />
     <Content Include="HomePageTC.aspx" />
     <Content Include="HomeTC.aspx" />
-    <Content Include="V1.1\HomeTCConsus.aspx" />
     <Content Include="Images\Background.png" />
     <Content Include="Images\background_image.jpg" />
     <Content Include="Images\cancel.png" />
@@ -201,38 +184,24 @@
     <Content Include="Images\viewreports_button.png" />
     <Content Include="Images\viewreport_button.png" />
     <Content Include="indicators.aspx" />
-    <Content Include="V1.1\IndicatorsDPConsus.aspx" />
-    <Content Include="V1.1\IndicatorsTCConsus.aspx" />
-    <Content Include="V1.1\IndicatorsJMCorporateConsus.aspx" />
     <Content Include="JMIndicators.aspx" />
     <Content Include="JMIndicatorsCorporate.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="MainPage.aspx" />
     <Content Include="newuser.aspx" />
     <Content Include="PdfViwerGuide.aspx" />
-    <Content Include="V1.1\previousexams.aspx" />
     <Content Include="Registration.aspx" />
     <Content Include="ReportAudit.aspx" />
     <Content Include="ReportAuditorJM.aspx" />
     <Content Include="ReportByLocationJM.aspx" />
-    <Content Include="V1.1\ReportJMVerticalQuestions.aspx" />
     <Content Include="ReportScoreLocation.aspx" />
     <Content Include="ReportScoreLocationDP.aspx" />
     <Content Include="ReportScoreLocationTC.aspx" />
-    <Content Include="V1.1\reviewquestions.aspx" />
-    <Content Include="V1.1\SelectReviewIndicator.aspx" />
-    <Content Include="V1.1\SelectSBUConsusDP.aspx" />
-    <Content Include="V1.1\SelectSBUConsusJM.aspx" />
-    <Content Include="V1.1\SelectSBUConsusTC.aspx" />
-    <Content Include="V1.1\showresult.aspx" />
-    <Content Include="V1.1\StartAuditJMTier2.aspx" />
-    <Content Include="V1.1\StartReview.aspx" />
     <Content Include="Style\StyleSheet4.css" />
     <Content Include="Style\Sheet2.css" />
     <Content Include="Style\Style.css" />
     <Content Include="Style\StyleJM.css" />
     <Content Include="Style\StyleSheet3.css" />
-    <Content Include="V1.1\TakeAudit.aspx" />
     <Content Include="TCIndicators.aspx" />
     <Content Include="TCIndicatorsCorporate.aspx" />
     <Content Include="Admin\ViewPreviousAudits.aspx" />
@@ -435,34 +404,6 @@
     <Compile Include="ReportAuditorTC.aspx.designer.cs">
       <DependentUpon>ReportAuditorTC.aspx</DependentUpon>
     </Compile>
-    <Compile Include="V1.1\AuditConsusDP.aspx.cs">
-      <DependentUpon>AuditConsusDP.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\AuditConsusDP.aspx.designer.cs">
-      <DependentUpon>AuditConsusDP.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\AuditConsusJM.aspx.cs">
-      <DependentUpon>AuditConsusJM.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\AuditConsusJM.aspx.designer.cs">
-      <DependentUpon>AuditConsusJM.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\AuditConsusTC.aspx.cs">
-      <DependentUpon>AuditConsusTC.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\AuditConsusTC.aspx.designer.cs">
-      <DependentUpon>AuditConsusTC.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\AuditCorporate.aspx.cs">
-      <DependentUpon>AuditCorporate.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\AuditCorporate.aspx.designer.cs">
-      <DependentUpon>AuditCorporate.aspx</DependentUpon>
-    </Compile>
     <Compile Include="AuditDBDataSe3.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -531,27 +472,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>AuditJMQuestionsDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="V1.1\AuditLevelConsusDP.aspx.cs">
-      <DependentUpon>AuditLevelConsusDP.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\AuditLevelConsusDP.aspx.designer.cs">
-      <DependentUpon>AuditLevelConsusDP.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\AuditLevelConsusJM.aspx.cs">
-      <DependentUpon>AuditLevelConsusJM.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\AuditLevelConsusJM.aspx.designer.cs">
-      <DependentUpon>AuditLevelConsusJM.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\AuditLevelConsusTC.aspx.cs">
-      <DependentUpon>AuditLevelConsusTC.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\AuditLevelConsusTC.aspx.designer.cs">
-      <DependentUpon>AuditLevelConsusTC.aspx</DependentUpon>
-    </Compile>
     <Compile Include="AuditLevelDP.aspx.cs">
       <DependentUpon>AuditLevelDP.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -582,27 +502,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>AuditorDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="V1.1\AuditReviewConsus.aspx.cs">
-      <DependentUpon>AuditReviewConsus.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\AuditReviewConsus.aspx.designer.cs">
-      <DependentUpon>AuditReviewConsus.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\AuditReviewFirstTierJM.aspx.cs">
-      <DependentUpon>AuditReviewFirstTierJM.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\AuditReviewFirstTierJM.aspx.designer.cs">
-      <DependentUpon>AuditReviewFirstTierJM.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\AuditReviewSecondTierJM.aspx.cs">
-      <DependentUpon>AuditReviewSecondTierJM.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\AuditReviewSecondTierJM.aspx.designer.cs">
-      <DependentUpon>AuditReviewSecondTierJM.aspx</DependentUpon>
-    </Compile>
     <Compile Include="AuditSaved.aspx.cs">
       <DependentUpon>AuditSaved.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -630,13 +529,6 @@
     </Compile>
     <Compile Include="AuditTC.aspx.designer.cs">
       <DependentUpon>AuditTC.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\createnewuser.aspx.cs">
-      <DependentUpon>createnewuser.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\createnewuser.aspx.designer.cs">
-      <DependentUpon>createnewuser.aspx</DependentUpon>
     </Compile>
     <Compile Include="Admin\CurrentAuditsJM.aspx.cs">
       <DependentUpon>CurrentAuditsJM.aspx</DependentUpon>
@@ -709,27 +601,6 @@
     <Compile Include="GridViewEdit.aspx.designer.cs">
       <DependentUpon>GridViewEdit.aspx</DependentUpon>
     </Compile>
-    <Compile Include="V1.1\GridViewEditConsusDP.aspx.cs">
-      <DependentUpon>GridViewEditConsusDP.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\GridViewEditConsusDP.aspx.designer.cs">
-      <DependentUpon>GridViewEditConsusDP.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\GridViewEditConsusJM.aspx.cs">
-      <DependentUpon>GridViewEditConsusJM.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\GridViewEditConsusJM.aspx.designer.cs">
-      <DependentUpon>GridViewEditConsusJM.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\GridViewEditConsusTC.aspx.cs">
-      <DependentUpon>GridViewEditConsusTC.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\GridViewEditConsusTC.aspx.designer.cs">
-      <DependentUpon>GridViewEditConsusTC.aspx</DependentUpon>
-    </Compile>
     <Compile Include="GridViewEditDP.aspx.cs">
       <DependentUpon>GridViewEditDP.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -772,26 +643,12 @@
     <Compile Include="HomeDP.aspx.designer.cs">
       <DependentUpon>HomeDP.aspx</DependentUpon>
     </Compile>
-    <Compile Include="V1.1\HomeDPConsus.aspx.cs">
-      <DependentUpon>HomeDPConsus.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\HomeDPConsus.aspx.designer.cs">
-      <DependentUpon>HomeDPConsus.aspx</DependentUpon>
-    </Compile>
     <Compile Include="HomeJM.aspx.cs">
       <DependentUpon>HomeJM.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="HomeJM.aspx.designer.cs">
       <DependentUpon>HomeJM.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\HomeJMConsus.aspx.cs">
-      <DependentUpon>HomeJMConsus.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\HomeJMConsus.aspx.designer.cs">
-      <DependentUpon>HomeJMConsus.aspx</DependentUpon>
     </Compile>
     <Compile Include="HomePageDP.aspx.cs">
       <DependentUpon>HomePageDP.aspx</DependentUpon>
@@ -821,40 +678,12 @@
     <Compile Include="HomeTC.aspx.designer.cs">
       <DependentUpon>HomeTC.aspx</DependentUpon>
     </Compile>
-    <Compile Include="V1.1\HomeTCConsus.aspx.cs">
-      <DependentUpon>HomeTCConsus.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\HomeTCConsus.aspx.designer.cs">
-      <DependentUpon>HomeTCConsus.aspx</DependentUpon>
-    </Compile>
     <Compile Include="indicators.aspx.cs">
       <DependentUpon>indicators.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="indicators.aspx.designer.cs">
       <DependentUpon>indicators.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\IndicatorsDPConsus.aspx.cs">
-      <DependentUpon>IndicatorsDPConsus.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\IndicatorsDPConsus.aspx.designer.cs">
-      <DependentUpon>IndicatorsDPConsus.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\IndicatorsTCConsus.aspx.cs">
-      <DependentUpon>IndicatorsTCConsus.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\IndicatorsTCConsus.aspx.designer.cs">
-      <DependentUpon>IndicatorsTCConsus.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\IndicatorsJMCorporateConsus.aspx.cs">
-      <DependentUpon>IndicatorsJMCorporateConsus.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\IndicatorsJMCorporateConsus.aspx.designer.cs">
-      <DependentUpon>IndicatorsJMCorporateConsus.aspx</DependentUpon>
     </Compile>
     <Compile Include="JMIndicators.aspx.cs">
       <DependentUpon>JMIndicators.aspx</DependentUpon>
@@ -940,13 +769,6 @@
     <Compile Include="PdfViwerGuide.aspx.designer.cs">
       <DependentUpon>PdfViwerGuide.aspx</DependentUpon>
     </Compile>
-    <Compile Include="V1.1\previousexams.aspx.cs">
-      <DependentUpon>previousexams.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\previousexams.aspx.designer.cs">
-      <DependentUpon>previousexams.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Registration.aspx.cs">
       <DependentUpon>Registration.aspx</DependentUpon>
@@ -976,13 +798,6 @@
     <Compile Include="ReportByLocationJM.aspx.designer.cs">
       <DependentUpon>ReportByLocationJM.aspx</DependentUpon>
     </Compile>
-    <Compile Include="V1.1\ReportJMVerticalQuestions.aspx.cs">
-      <DependentUpon>ReportJMVerticalQuestions.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\ReportJMVerticalQuestions.aspx.designer.cs">
-      <DependentUpon>ReportJMVerticalQuestions.aspx</DependentUpon>
-    </Compile>
     <Compile Include="ReportScoreLocation.aspx.cs">
       <DependentUpon>ReportScoreLocation.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -1003,69 +818,6 @@
     </Compile>
     <Compile Include="ReportScoreLocationTC.aspx.designer.cs">
       <DependentUpon>ReportScoreLocationTC.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\reviewquestions.aspx.cs">
-      <DependentUpon>reviewquestions.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\reviewquestions.aspx.designer.cs">
-      <DependentUpon>reviewquestions.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\SelectReviewIndicator.aspx.cs">
-      <DependentUpon>SelectReviewIndicator.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\SelectReviewIndicator.aspx.designer.cs">
-      <DependentUpon>SelectReviewIndicator.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\SelectSBUConsusDP.aspx.cs">
-      <DependentUpon>SelectSBUConsusDP.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\SelectSBUConsusDP.aspx.designer.cs">
-      <DependentUpon>SelectSBUConsusDP.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\SelectSBUConsusJM.aspx.cs">
-      <DependentUpon>SelectSBUConsusJM.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\SelectSBUConsusJM.aspx.designer.cs">
-      <DependentUpon>SelectSBUConsusJM.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\SelectSBUConsusTC.aspx.cs">
-      <DependentUpon>SelectSBUConsusTC.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\SelectSBUConsusTC.aspx.designer.cs">
-      <DependentUpon>SelectSBUConsusTC.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\showresult.aspx.cs">
-      <DependentUpon>showresult.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\showresult.aspx.designer.cs">
-      <DependentUpon>showresult.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\StartAuditJMTier2.aspx.cs">
-      <DependentUpon>StartAuditJMTier2.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\StartAuditJMTier2.aspx.designer.cs">
-      <DependentUpon>StartAuditJMTier2.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\StartReview.aspx.cs">
-      <DependentUpon>StartReview.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\StartReview.aspx.designer.cs">
-      <DependentUpon>StartReview.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="V1.1\TakeAudit.aspx.cs">
-      <DependentUpon>TakeAudit.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="V1.1\TakeAudit.aspx.designer.cs">
-      <DependentUpon>TakeAudit.aspx</DependentUpon>
     </Compile>
     <Compile Include="TCIndicators.aspx.cs">
       <DependentUpon>TCIndicators.aspx</DependentUpon>
